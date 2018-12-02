@@ -8,7 +8,7 @@ import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class TestScheduleServiceGetHttp {
+public class TestScheduleServiceHttpGet {
 
 	String InitialbaseURI = "https://www.hudl.com/api/v2/";
 
